@@ -33,7 +33,7 @@ module.exports.config = {
  usePrefix: false,
  commandCategory: "fun",
  usages: "/need gf",
- cooldowns: 5,
+ cooldowns: 20,
 };
 
 module.exports.run = async function ({ api, event }) {
